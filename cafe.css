@@ -38,7 +38,7 @@ img{max-width:100%;}
 
 
 /*ボタン*/
-.btn{display:inline-block; font-size:1.5rem; background-color:#9fd0ed; color:#4d3706; border-radius:8px; padding:.75rem 1.5rem; transition:.8s;}
+.btn{display:inline-block; font-size:1.5rem; background-color:#9fd0ed; color:#4d3706; border-radius:8px; padding:.75rem 1.5rem; transition:.8s; margin:2rem;}
 .btn:hover{background-color:#5ea6d1; scale:1.2;}
 
 /*フッター*/
