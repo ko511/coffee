@@ -27,7 +27,7 @@ img{max-width:100%;}
 
 /*キャッチコピー*/
 .cover{background-size:cover; background-position:center bottom; height:800px;}
-.cover-home{background-image:url(cover/cover.webp);}
+.cover-home{background-image:url(cover.webp);}
 .page-title{margin:3rem;}
 
 /*about*/
