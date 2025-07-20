@@ -91,7 +91,7 @@ iframe{width:100%}
 
 
 /*デスクトップ版*/
-@media(min-width:800px){
+@media(min-width:700px){
  /*見出し*/.page-title{font-size:5rem;} .heading-large{font-size:4rem;} .post-title{font-size:2rem;}
  /*ヘッダー*/
    .page-header{display:flex; justify-content:space-between; align-items:center; padding:0 10px;}
