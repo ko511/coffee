@@ -117,3 +117,9 @@ iframe{width:100%}
 .location-info .info th{padding-left:2rem;}
 .location-map{width:55%;}
 }
+/*スマホ版*/
+@media(max-width:800px){
+ /*ヘッダー*/
+.page-header{flex-direction:column; align-items:center; padding:1rem;}
+.main-nav{flex-direction:column; align-items:center; gap:1rem; margin:1rem 0;}
+}
