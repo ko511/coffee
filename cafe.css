@@ -116,8 +116,3 @@ iframe{width:100%}
 .location-info .info th{padding-left:2rem;}
 .location-map{width:55%;}
 }
-
-
-@media(max-width:800px){
- .main-nav{flex-direction:column; align-items:center; margin:1rem 0; gap:1rem;}
- ]}
