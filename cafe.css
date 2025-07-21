@@ -119,6 +119,5 @@ iframe{width:100%}
 
 
 @media(max-width:800px){
- .page-header{flex-direction:column; align-items:center; gap:1rem;}
  .main-nav{flex-direction:column; align-items:center; margin:1rem 0; gap:1rem;}
  ]}
