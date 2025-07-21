@@ -9,7 +9,7 @@ img{max-width:100%;}
 
 /*レイアウト*/
 .wrapper{max-width:100%; margin:0 auto; padding:0 1.5rem;}
-.align-center{text-align:center;}
+.align-center{padding:1rem; ,margin:3rem 0 3rem; text-align:center;}
 
 
 /*見出し*/
