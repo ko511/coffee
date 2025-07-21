@@ -1,14 +1,14 @@
 @charset "UTF-8";
 /*共通部分*/
 html{font-size:100%;}
-body{font-family: "Kosugi Maru", "Hiragino Sans", "BIZ UDPGothic", sans-serif; line-height:1.7; color:#4d3706;}
+body{font-family: "Kosugi Maru", "Hiragino Sans", "BIZ UDPGothic", sans-serif; line-height:1.7; color:#4d3706; margin:0; overflow-x:hidden;}
 a{text-decoration: none;}
 img{max-width:100%;}
 
 /*カバー*/
 
 /*レイアウト*/
-.wrapper{max-width:1000px; margin:0 auto; padding:0 1.5rem;}
+.wrapper{max-width:100%; margin:0 auto; padding:0 1.5rem;}
 .align-center{text-align:center;}
 
 
