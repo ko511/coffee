@@ -36,7 +36,6 @@ img{max-width:100%;}
 .about h1{color:#1b6c8c}
 .cover-home{background-image:url(cover/cover.webp);}
 
-
 /*ボタン*/
 .btn{display:inline-block; font-size:1.5rem; background-color:#9fd0ed; color:#4d3706; border-radius:8px; padding:.75rem 1.5rem; transition:.8s;}
 .btn:hover{background-color:#5ea6d1; scale:1.2;}
@@ -117,3 +116,9 @@ iframe{width:100%}
 .location-info .info th{padding-left:2rem;}
 .location-map{width:55%;}
 }
+
+
+@media(max-width:800px){
+ .page-header{flex-direction:column; align-items:center; gap:1rem;}
+ .main-nav{flex-direction:column; align-items:center; margin:1rem 0; gap:1rem;}
+ ]}
